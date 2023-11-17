@@ -1,0 +1,3 @@
+ThingsThatTalk.MainActivity, ThingsThatTalk_Android;crc64680b6e2344886096.MainActivity
+ThingsThatTalk.MainActivity;crc64680b6e2344886096.MainActivity
+thingsthattalk.MainActivity;crc64680b6e2344886096.MainActivity

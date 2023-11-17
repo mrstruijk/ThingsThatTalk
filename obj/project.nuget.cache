@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sMs3txQ8d3ITLQDFCH/hREMKrCdy1kCyU43GPw1fEOwivN+mDGJYRENa6oTBIPikh88S94B9k6rf6DuIFw4ZOQ==",
+  "success": true,
+  "projectFilePath": "/Users/mrstruijk/Current StereoKit Projects/ThingsThatTalk/ThingsThatTalk.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrstruijk/.nuget/packages/stereokit/0.3.8/stereokit.0.3.8.nupkg.sha512",
+    "/Users/mrstruijk/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

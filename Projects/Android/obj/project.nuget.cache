@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "17ZU4dLUCRq2WVyD+aMN82/3wAARRH9VjaaPFUintx2L8icKXauLA4h7RrBYyiRKlgkXek/XpVkQxnVSwFvYvQ==",
+  "success": true,
+  "projectFilePath": "/Users/mrstruijk/Current StereoKit Projects/ThingsThatTalk/Projects/Android/ThingsThatTalk_Android.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrstruijk/.nuget/packages/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "/Users/mrstruijk/.nuget/packages/stereokit/0.3.8/stereokit.0.3.8.nupkg.sha512",
+    "/Users/mrstruijk/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
